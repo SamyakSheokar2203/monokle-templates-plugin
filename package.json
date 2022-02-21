@@ -1,0 +1,17 @@
+{
+    "name": "Templates plugins",
+    "description": "Custom templates plugin",
+    "version": "1.0.0",
+    "author": "Samyak Sheokar",
+    "repository": "https://github.com/SamyakSheokar2203/monokle-templates-plugin",
+    "monoklePlugin": {
+      "id":"com.github.SamyakSheokar2203.plugin.templates",
+      "helpUrl":"https://github.com/SamyakSheokar2203/monokle-templates-plugin",
+      "modules": [
+        {
+          "type": "template",
+          "path": "basic-pod-template"
+        }
+      ]
+    }
+  }
